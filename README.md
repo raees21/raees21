@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**raees21/raees21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 My GitHub Stats
+
+![Raees(that's me) GitHub Stats](https://github-readme-stats.vercel.app/api?username=raees212962&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=great-gatsby)![GingerNinja2962's(that's me) GitHub Stats BreakDown](https://github-readme-stats.vercel.app/api/top-langs/?username=GingerNinja2962&hide_title=false&hide_border=false&layout=compact&langs_count=10&&theme=great-gatsby&count_private=true&custom_title=My%20all%20time%20Most%20Used%20Languages)
+
 
 Here are some ideas to get you started:
 
